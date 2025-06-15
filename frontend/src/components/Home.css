@@ -1,0 +1,42 @@
+/* src/components/Home.css */
+
+.bg-navy {
+    background-color: #001f3f;
+  }
+  
+  .text-white {
+    color: #ffffff;
+  }
+  
+  .appbar {
+    background-color: #001f3f !important; 
+  }
+  
+  .tab-label {
+    color: #ffffff; 
+    font-size: 1.15rem !important; 
+  }
+  
+  .hero-box {
+    background-color: #001f3f ; 
+    border-radius: 1rem; 
+  }
+
+  .hero-title {
+    text-align: left; 
+    font-size: 5rem; 
+    line-height: 1.2; 
+    margin-bottom: 3rem !important; 
+  }
+  
+  .transcode-button {
+    background-color: #ffffff !important; 
+    border-radius: 9999px !important; 
+    color: #001f3f !important; 
+  }
+
+  .transcode-button:hover {
+    background-color: #aba7de !important; 
+  }
+  
+  

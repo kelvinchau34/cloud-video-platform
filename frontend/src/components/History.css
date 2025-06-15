@@ -1,0 +1,50 @@
+.history-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #001f3f;
+    padding: 32px;
+    border-radius: 16px;
+    color: white;
+  }
+  
+  .history-title {
+    margin-bottom: 32px;
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  .history-table {
+    width: 100%;
+    margin-top: 16px;
+  }
+  
+  .table-header {
+    font-weight: bold;
+    color: white;
+    background-color: #001f3f;
+  }
+  
+  .table-row {
+    background-color: #002b5e;
+    color: white;
+  }
+  
+  .table-row:nth-of-type(even) {
+    background-color: #001f3f;
+  }
+  
+  .history-download-button {
+    background-color: #4338CA;
+    color: white;
+  }
+  
+  .history-download-button:hover {
+    background-color: #3730A3;
+  }
+  
+  .no-videos-text {
+    margin-top: 16px;
+    color: white;
+  }
+  

@@ -1,0 +1,20 @@
+.about-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #001f3f;
+    padding: 32px;
+    border-radius: 16px;
+    color: white;
+  }
+  
+  .about-title {
+    margin-bottom: 32px;
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  .about-content {
+    font-size: 1rem;
+    line-height: 1.5;
+  }

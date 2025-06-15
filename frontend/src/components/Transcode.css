@@ -1,0 +1,33 @@
+.transcode-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #001f3f;
+    padding: 32px;
+    border-radius: 16px;
+    color: white;
+  }
+  
+  .transcode-title {
+    margin-bottom: 32px;
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  .transcode-input {
+    margin-bottom: 16px;
+    background-color: white;
+  }
+  
+  .transcode-button {
+    background-color: #4338CA;
+    color: white;
+  }
+  
+  .transcode-button:hover {
+    background-color: #3730A3;
+  }
+  
+  .transcode-status {
+    margin-top: 16px;
+  }

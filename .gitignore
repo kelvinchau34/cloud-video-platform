@@ -43,3 +43,6 @@ Thumbs.db
 *.zip
 .env
 .env.*.local
+aws_credentials.env
+process/aws_credentials.env
+auth/aws_credentials.env
